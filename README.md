@@ -18,7 +18,7 @@ Here are the key technologies I work with:
 - **JavaScript**: Frontend and backend development.
 - **Next.js**: Modern web applications with server-side rendering.
 - **Laravel**: Robust backend systems and APIs.
-- **Other Tools**: [List any other tools or frameworks you use, e.g., Docker, Git, etc.]
+- **Other Tools**: [ Git, GitHub, bootstrap, Elementor and more.]
 
 ---
 
@@ -30,7 +30,7 @@ Here are the key technologies I work with:
 ## 📫 Contact Me
 If you're interested in my work or would like to collaborate, feel free to reach out:
 - **Email**: [luiscristobal.barriosoberto@gmail.com]
-- **LinkedIn**: [[your LinkedIn profile link]https://www.linkedin.com/in/luis-cristobal-barrios-oberto-236b74238/]
+- **LinkedIn**: [https://www.linkedin.com/in/luis-cristobal-barrios-oberto-236b74238/]
 - **Portfolio Website**: [working on it]
 
 ---
