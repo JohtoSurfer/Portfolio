@@ -14,3 +14,21 @@ img {
     width: 250px;
     height: 200px;
 }
+
+.weather-card {
+    background-color: white;
+    max-width:400px;
+    padding:40px;
+    margin-top:0;
+    margin-bottom:0;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:10px;
+    box-shadow:0 4px 8px gray;
+    transition: transform 0.3s, background-color 0.3s ease;
+}
+
+.weather-card:hover {
+    background-color: aquamarine;
+    transform: scale(1.1);
+}
